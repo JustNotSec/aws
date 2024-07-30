@@ -1,6 +1,6 @@
 #!bin/bash
 
-GitUser="imannig"
+GitUser="JustNotSec"
 # location 
 cd /usr/local/sbin
 # hapus yang terdahulu elak conflik 

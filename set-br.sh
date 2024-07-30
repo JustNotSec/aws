@@ -1,5 +1,5 @@
 #!/bin/bash
-GitUser="imannig"
+GitUser="JustNotSec"
 #wget https://github.com/${GitUser}/
 curl https://rclone.org/install.sh | bash
 printf "q\n" | rclone config

@@ -11,7 +11,7 @@ clear
 
 # update
 cd /usr/bin
-GitUser="imannig"
+GitUser="JustNotSec"
 #wget https://github.com/${GitUser}/
 wget -O  update1 "https://raw.githubusercontent.com/${GitUser}/aws/main/menu-update/update1.sh"
 chmod +x update1
