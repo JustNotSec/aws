@@ -3,7 +3,7 @@
 # 2022
 # ==================================================
 
-GitUser="imannig"
+GitUser="JustNotSec"
 #wget https://github.com/${GitUser}/
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
